@@ -1,0 +1,1 @@
+web: gunicorn EMPLOYEE_MANAGEMENT_SYSTEM.wsgi
